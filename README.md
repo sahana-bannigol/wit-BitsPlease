@@ -7,6 +7,7 @@ An application that solves the issue of food wastage and improves the usage and 
     <li>The Idea</li>
     <li>Long Description</li>
     <li>Architecture</li>
+    <li>Project Road Map</li>
     <li>Demo Video</li>
 </ul>
 <h2><b>
@@ -30,6 +31,17 @@ Our app provides a solution to two of the biggest problems – Wastage of Food a
 
 <h2>Architecture</h2>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/BV2PTN1/photo-2021-06-18-23-35-25.jpg" alt="photo-2021-06-18-23-35-25" border="0"></a>
+
+<h2>Project RoadMap</h2>
+Our project currently has 2 main motives:
+Collection of food
+Collection of e-waste products
+Food is collected and delivered to the needy.
+E-waste is collected and handled safely within the authorized centres for recycling.
+
+In future, we hope to partner up with restaurants, hotels, IT cells, electronic manufacturers, more authorized e-waste centres to spread our reach further.
+In this way we shall ensure a large-scale chain of consumers/volunteers who can easily deliver their waste to the correct destination.
+
 
 <h2>Demo Video </h2>
 Youtube Link - https://youtu.be/G8NO4kAeRWg
