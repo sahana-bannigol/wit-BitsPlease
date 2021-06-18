@@ -33,12 +33,13 @@ Our app provides a solution to two of the biggest problems – Wastage of Food a
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/BV2PTN1/photo-2021-06-18-23-35-25.jpg" alt="photo-2021-06-18-23-35-25" border="0"></a>
 
 <h2>Project RoadMap</h2>
-Our project currently has 2 main motives:
-Collection of food
-Collection of e-waste products
+<p>Our project currently has 2 main motives:
+ <ul>
+     <li>Collection of food</li>
+     <li>Collection of e-waste products</li>
+     </ul>
 Food is collected and delivered to the needy.
 E-waste is collected and handled safely within the authorized centres for recycling.
-
 In future, we hope to partner up with restaurants, hotels, IT cells, electronic manufacturers, more authorized e-waste centres to spread our reach further.
 In this way we shall ensure a large-scale chain of consumers/volunteers who can easily deliver their waste to the correct destination.
 
