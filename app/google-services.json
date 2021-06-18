@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "894520850212",
+    "project_id": "eleos-87ce7",
+    "storage_bucket": "eleos-87ce7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894520850212:android:da533de5475ae8946de5b1",
+        "android_client_info": {
+          "package_name": "com.e.eleos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894520850212-u3e9t519ou9ajslck4bs97kat9f4qqpv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.e.eleos",
+            "certificate_hash": "2c4f6ad1019a2fbfaa43041c1a6d818c2de27751"
+          }
+        },
+        {
+          "client_id": "894520850212-e411quli5126lgolbp0kqc79sgi7lp9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAADdAHVlTFC64cSgzsyaginDwgSJcMrpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894520850212-e411quli5126lgolbp0kqc79sgi7lp9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
